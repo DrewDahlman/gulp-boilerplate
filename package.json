@@ -4,7 +4,7 @@
   "description": "Description.",
   "repository": {
     "type": "git",
-    "url": "git@github.com:legworkstudio/rip-it-with-gulp.git"
+    "url": "git@github.com:DrewDahlman/gulp-boilerplate.git"
   },
   "browser": {
     "plugin": "./src/javascript/vendor/jquery-plugin.js"

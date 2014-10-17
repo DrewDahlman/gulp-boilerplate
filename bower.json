@@ -20,7 +20,6 @@
     "underscore": "~1.6.0"
   },
   "devDependencies": {
-    "meyer-reset": "*",
     "jquery-easing": "*",
     "history.js": "~1.8.0"
   }
